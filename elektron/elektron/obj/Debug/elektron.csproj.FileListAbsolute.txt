@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\bin\Debug\elektron.exe.config
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\bin\Debug\elektron.exe
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\bin\Debug\elektron.pdb
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Form1.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.exe
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.pdb
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Form2.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.AboutBox1.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Form3.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\bin\Debug\ZedGraph.dll
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Form4.resources
+C:\Users\Dmitry\Desktop\diplom\elektron\elektron\obj\Debug\elektron.Form5.resources
