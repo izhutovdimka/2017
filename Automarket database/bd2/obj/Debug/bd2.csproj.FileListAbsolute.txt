@@ -1,0 +1,38 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\bin\Debug\DATABASE.mdf
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\bin\Debug\DATABASE_log.ldf
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.pdb
+D:\MyProject-MyPrograms\bd2\bd2\bin\Debug\bd2.exe.config
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.exe
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.pdb
+D:\MyProject-MyPrograms\bd2\bd2\bin\Debug\DATABASE.mdf
+D:\MyProject-MyPrograms\bd2\bd2\bin\Debug\DATABASE_log.ldf
+D:\MyProject-MyPrograms\bd2\bd2\bin\Debug\bd2.exe
+D:\MyProject-MyPrograms\bd2\bd2\bin\Debug\bd2.pdb
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.StartForm.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.InsProdForm.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.DelProdForm.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.UpdateProduct.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.InsertOrders.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.DeleteOrders.resources
+D:\MyProject-MyPrograms\bd2\bd2\obj\Debug\bd2.UpdateOrders.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.DeleteOrders.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.InsertOrders.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.StartForm.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.InsProdForm.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.DelProdForm.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.UpdateOrders.resources
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\bd2\bd2\obj\Debug\bd2.UpdateProduct.resources
+C:\Users\Dmitry\documents\visual studio 2015\Projects\bd2\bd2\obj\Debug\bd2.SearchForm.resources
+C:\Users\Dmitry\Desktop\dev-comi\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Dmitry\Desktop\dev-comi\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Dmitry\Desktop\dev-comi\bd2\bd2\obj\Debug\bd2.pdb
