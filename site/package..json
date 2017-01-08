@@ -1,0 +1,10 @@
+{
+	"name":"Dmitry Izhutov",
+	"version":"1.0.0",
+	"description":"React",
+	"main":"index_2.html",
+	"scripts": {
+		"start":"node server.js"
+	},
+	"author":"Dmitry Izhutov",
+}
