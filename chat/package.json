@@ -1,7 +1,7 @@
 {
 	"name" : "NodeChat",
 	"version" : "1.0.0",
-	"description" : "My first Node.js chat",
+	"description" : "Node.js chat",
 	"dependencies" : {
 		"socket.io" : "latest",
 		"express" : "latest",
